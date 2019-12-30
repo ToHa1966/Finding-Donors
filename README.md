@@ -28,4 +28,4 @@ In this project, I applied supervised learning techniques and an analytical mind
 - Numpy
 - Pandas
 - Matplotlib
-- Seaborn
+- Time
